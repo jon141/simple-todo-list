@@ -1,2 +1,1 @@
-# simple-todo-list
-Simple todo list with Customtkinter
+pip install customtkinter
